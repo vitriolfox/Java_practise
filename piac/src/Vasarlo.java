@@ -1,8 +1,8 @@
 import java.util.Arrays;
 
 public class Vasarlo {
-    private Gyumolcs[] kosar;
-    private int osszeg;
+    protected Gyumolcs[] kosar;
+    protected int osszeg;
 
     public Vasarlo(Gyumolcs[] kosar, int osszeg) {
         this.kosar = kosar;
@@ -27,12 +27,15 @@ public class Vasarlo {
 
     public void vasarol(Gyumolcs gyumolcs){
         for(int i=0; i < kosar.length; i++){
-            if (gyumolcs.getAr() > getOsszeg()){
+            if (gyumolcs.getAr() > getOsszeg()) {
                 System.out.println("Sajnos nincs elég pénzük a " + gyumolcs + " megvásárlásához.");
-            } else if (gyumolcs.getAr() <= getOsszeg() && !(gyumolcs.getSzin().equals("zold"))){
-                System.out.println("Sajnos mi csak zöld gyümölcsöt szeretnénk venni.");
-            } else {
+
+            } else if (gyumolcs.getAr() <= this.getOsszeg() && gyumolcs.getSzin().equals("zold")){
+                osszeg -= gyumolcs.getAr();
                 kosar[i] = gyumolcs;
+
+            } else {
+                System.out.println("Sajnos mi csak zöld gyümölcsöt szeretnénk venni.");
             }
         }
     }
