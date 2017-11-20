@@ -2,62 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a65adcc-7393-4bbd-9b2f-58f338cbbd1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HashMap/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HashMap/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HashMap/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HashMap/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HashMap/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HashMap/src/com/flowacademy/hashmap/Terkep.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ListaMukodes/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ListaMukodes/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ListaMukodes/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ListaMukodes/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ListaMukodes/src/com/flowacademy/lista/Halmaz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ListaMukodes/src/com/flowacademy/lista/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/Leltar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/exceptions/BadQualityException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/input.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/kuka.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/polcra.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/storage/DairyProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/storage/Fruit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RaktarRendszer/src/com/flofacademy/storage/Ware.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../external_file/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iterator_pattern/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iterator_pattern/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iterator_pattern/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iterator_pattern/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iterator_pattern/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../iterator_pattern/src/Lista.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observer_pattern/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observer_pattern/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observer_pattern/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observer_pattern/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observer_pattern/src/com/flowacademy/observer/Karakter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../observer_pattern/src/com/flowacademy/observer/Lovaskocsi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../piac/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/flowacademy/verem/Verem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/flowacademy/verem/exceptions/PopException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/flowacademy/verem/exceptions/PushException.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../decorator_pattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../decorator_pattern/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../external_file/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../external_file/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../piac/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../piac/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../piac/src/SzuperNagyi.java" afterPath="$PROJECT_DIR$/../piac/src/SzuperNagyi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../piac/src/Vasarlo.java" afterPath="$PROJECT_DIR$/../piac/src/Vasarlo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +20,8 @@
       <file leaf-file-name="Verem.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/Verem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
-              <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+            <state relative-caret-position="15">
+              <caret line="30" column="58" lean-forward="false" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +32,7 @@
       <file leaf-file-name="PushException.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/exceptions/PushException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="60">
               <caret line="6" column="5" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
@@ -155,6 +103,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,10 +134,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -324,6 +272,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-46" y="45" width="1366" height="742" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -371,6 +320,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/exceptions/PopException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/exceptions/PushException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/Verem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/exceptions/PushException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -400,7 +378,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/exceptions/PushException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="60">
           <caret line="6" column="5" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
@@ -411,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/flowacademy/verem/Verem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        <state relative-caret-position="15">
+          <caret line="30" column="58" lean-forward="false" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
