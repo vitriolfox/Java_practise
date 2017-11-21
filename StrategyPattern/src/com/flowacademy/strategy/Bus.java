@@ -1,11 +1,9 @@
 package com.flowacademy.strategy;
 
-public class Bus implements ITravelStrategy {
+public class Bus extends TomegKozlekedes {
 
     @Override
-    public void travel(Client client) {
-        client.setMoney(client.getMoney()-2);
-        client.setMentalHealth(client.getMentalHealth()-5);
-        client.setTime(client.getTime()-3);
+    protected void utazas() {
+        System.out.println("UTAZUNK A BUSZON TÜTŰŰŰT!");
     }
 }
