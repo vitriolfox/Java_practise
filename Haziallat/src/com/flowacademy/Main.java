@@ -10,8 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    private static final String INPUT = "./src/com/flowacademy/input.txt";
-    private static final String BOLDOGOK = "./src/com/flowacademy/boldogok.txt";
+    private static final String INPUT = "./data/input.txt";
+    private static final String BOLDOGOK = "./data/boldogok.txt";
 
     public static void allatPrint(List<Haziallat> list, Writer allatWriter) throws IOException{
         for (Haziallat listElement : list) {
@@ -29,7 +29,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        BufferedReader bufferedReader = null;
+        BufferedReader bufferedReader;
         List<Haziallat> allatList = new ArrayList<>();
         String[] splittedLine;
         int elementCounter = 0;
@@ -79,6 +79,9 @@ public class Main {
         try{
 
             Writer allatWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(BOLDOGOK), "utf-8"));
+            for (Haziallat allat: allatList){
+                allat.setBoldogsag();
+            }
 
             allatPrint(allatList, allatWriter);
 

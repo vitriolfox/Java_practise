@@ -25,3 +25,4 @@ Macska;Vilmos
 3;megetet
 0;megetet
 0;megetet
+1;simogat
