@@ -2,51 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8ffe69-7b47-42f9-a151-fbb7ba12735c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Haziallat/data/boldogok.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/Driving.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/exceptions/IsBrokenException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/exceptions/NoFuelException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Bicycle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/IMotorized.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Wehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/src/com/flowacademy/Media/Mp3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/src/com/flowacademy/Media/VideoClip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/src/com/flowacademy/Player/Winamp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Abszcinens.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Alkesz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Bordely.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Ember.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hely.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Kocsma.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Szexmanias.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Temeto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../konyv_rendszer/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/boldogok.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/input.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/boldogok.txt" afterPath="$PROJECT_DIR$/../Kozlekedes/data/wehicles.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/input.txt" afterPath="$PROJECT_DIR$/../Haziallat/data/input.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/Main.class" afterPath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Haziallat/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Haziallat/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/Main.java" afterPath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RaktarRendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konyv_rendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../konyv_rendszer/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -386,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="742" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="694" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -397,12 +356,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3564189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26640624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />

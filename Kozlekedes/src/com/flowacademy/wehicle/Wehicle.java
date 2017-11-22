@@ -3,6 +3,7 @@ package com.flowacademy.wehicle;
 import com.flowacademy.exceptions.IsBrokenException;
 
 import java.io.Serializable;
+import java.util.Objects;
 
 public abstract class Wehicle implements Serializable{
     protected int weight;
@@ -44,6 +45,25 @@ public abstract class Wehicle implements Serializable{
 
 
     public abstract void startEngine() throws IsBrokenException;
+
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Wehicle wehicle = (Wehicle) o;
+
+        if (weight != wehicle.weight) return false;
+        return maxSpeed == wehicle.maxSpeed;
+    }
+
+    @Override
+    public int hashCode() {
+        int result = weight;
+        result = 31 * result + maxSpeed;
+        return result;
+    }
 
     @Override
     public String toString() {
