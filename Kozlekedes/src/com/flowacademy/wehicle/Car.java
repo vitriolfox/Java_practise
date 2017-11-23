@@ -30,6 +30,24 @@ public final class Car extends Wehicle implements IMotorized, Serializable{
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        if (!super.equals(o)) return false;
+
+        Car car = (Car) o;
+
+        return fuelLevel == car.fuelLevel;
+    }
+
+    @Override
+    public int hashCode() {
+        int result = super.hashCode();
+        result = 31 * result + fuelLevel;
+        return result;
+    }
+
+    @Override
     public void loadFuel(int i) {
         this.fuelLevel += i;
     }

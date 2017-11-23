@@ -1,0 +1,6 @@
+5
+Mátrix;ketnapos;12
+Mátrix2;ketnapos;16
+Mátrix3;korlatlan;18
+ÉletaFöldön;korlatlan
+AMadarakÉlete;korlatlan

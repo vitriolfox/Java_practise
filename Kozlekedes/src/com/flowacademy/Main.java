@@ -49,15 +49,17 @@ public class Main {
         autoHalmaz.add(auto1);
         autoHalmaz.add(auto2);
         autoHalmaz.add(auto3);
-        //autoHalmaz.add(auto4);
+        autoHalmaz.add(auto4);
 
         auto1.setWeight(2000);
         System.out.println(auto3.getWeight());
 
         egyezesJellel(auto1,auto2);
         egyezesEquals(auto1,auto2);
-
+        System.out.println("==============");
         System.out.println(autoList.contains(auto4));
+        System.out.println("==============");
+
         System.out.println(autoHalmaz.contains(auto4));
 
         System.out.println(gyumik.contains("papaja"));
