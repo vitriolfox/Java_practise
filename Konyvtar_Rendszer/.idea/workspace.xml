@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e35e7b-d66f-4435-8d3f-ef5822683c9e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/HibasKikolcsonzesException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/HibasVideoException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/NotFoundException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/videoteka/Kolcsonozheto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/videoteka/OktatoVideo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/videoteka/Video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/videoteka/VideoTeka.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prototype_Pattern/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prototype_Pattern/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prototype_Pattern/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prototype_Pattern/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prototype_Pattern/src/ConcretePrototype1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prototype_Pattern/src/Prototype.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Singleton_Pattern/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Singleton_Pattern/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Singleton_Pattern/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Singleton_Pattern/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Singleton_Pattern/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Singleton_Pattern/src/Singleton.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Factory_pattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Factory_pattern/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kozlekedes/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/Main.java" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Car.java" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Car.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
