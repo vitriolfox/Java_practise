@@ -47,11 +47,11 @@ public class Main {
         autoList.add(auto3);
 
         autoHalmaz.add(auto1);
-        autoHalmaz.add(auto2);
+        //autoHalmaz.add(auto2);
         autoHalmaz.add(auto3);
         autoHalmaz.add(auto4);
 
-        auto1.setWeight(2000);
+        auto4.setWeight(2000);
         System.out.println(auto3.getWeight());
 
         egyezesJellel(auto1,auto2);
@@ -60,7 +60,7 @@ public class Main {
         System.out.println(autoList.contains(auto4));
         System.out.println("==============");
 
-        System.out.println(autoHalmaz.contains(auto4));
+        System.out.println(autoHalmaz.contains(auto2));
 
         System.out.println(gyumik.contains("papaja"));
 
