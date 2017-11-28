@@ -1,0 +1,6 @@
+Ember;Kis Károly;25;60
+Vadász;Puska Péter;40;75;0.5
+Halász;Háló Hugó;34;50;18;0.7
+Ember;Nagy Norbert;31;100
+Vadász;Mordály Mihály;40;75;0.9
+Halász;Peca Petya;18;90;18;0.5

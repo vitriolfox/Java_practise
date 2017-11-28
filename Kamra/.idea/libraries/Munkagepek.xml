@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Munkagepek">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Munkagepek" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Munkagepek/src" />
+    </SOURCES>
+  </library>
+</component>
