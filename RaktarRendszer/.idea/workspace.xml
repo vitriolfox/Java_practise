@@ -2,50 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45185384-2923-4a23-bc26-0d93e5b3b238" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/src/utils/AlfaUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/src/LinkedList/LinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/src/LinkedList/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/MunkagepRendezes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/comparator/TypeComparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/comparator/WeigthComparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/comparators/GyorsuszoComparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/comparators/HatuszoComparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/comparators/UszoMesterComparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../filmek/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Ember.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Halasz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Vadasz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Zsakmanyolo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Exceptions/TeleVanException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Kamra/HalHusEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Kamra/Kamra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Main.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/out/production/Machinery/com/flowacademy/Main.class" afterPath="$PROJECT_DIR$/../Munkagepek/out/production/Machinery/com/flowacademy/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/out/production/Machinery/com/flowacademy/machine/FastestMachines.class" afterPath="$PROJECT_DIR$/../Munkagepek/out/production/Machinery/com/flowacademy/machine/FastestMachines.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/out/production/Machinery/com/flowacademy/machine/Truck.class" afterPath="$PROJECT_DIR$/../Munkagepek/out/production/Machinery/com/flowacademy/machine/Truck.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/data/gyorsuszokJSON.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/JSONparsing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/Uszoverseny.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/Uszoverseny.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/Gyorsuszo.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/Gyorsuszo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/Hatuszo.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/Hatuszo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/Uszo.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/Uszo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/UszoMester.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/UszoMester.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/Versenyzo.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/Versenyzo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/comparators/GyorsuszoComparator.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/comparators/GyorsuszoComparator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/comparators/HatuszoComparator.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/comparators/HatuszoComparator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/comparators/UszoMesterComparator.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/comparators/UszoMesterComparator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/exceptions/UszikException.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/exceptions/UszikException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../UszoVerseny/src/com/flowacademy/uszoda/exceptions/VersenyezException.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/exceptions/VersenyezException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/Uszoverseny.class" afterPath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/Uszoverseny.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Factory_pattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Factory_pattern/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/Main.java" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/Truck.java" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/Truck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/TruckStat.java" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/TruckStat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/flofacademy/Leltar.java" afterPath="$PROJECT_DIR$/src/com/flofacademy/Leltar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../filmek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../filmek/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konyv_rendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../konyv_rendszer/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/.idea/modules.xml" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/data/eredmeny.txt" afterPath="$PROJECT_DIR$/../UszoVerseny/data/eredmeny.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/data/gyorsuszasverseny.ser" afterPath="$PROJECT_DIR$/../UszoVerseny/data/gyorsuszasverseny.ser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/data/hatuszasverseny.ser" afterPath="$PROJECT_DIR$/../UszoVerseny/data/hatuszasverseny.ser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/data/uszomesterek.ser" afterPath="$PROJECT_DIR$/../UszoVerseny/data/uszomesterek.ser" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,8 +80,8 @@
       <file leaf-file-name="Leltar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/flofacademy/Leltar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="113" lean-forward="true" selection-start-line="68" selection-start-column="113" selection-end-line="68" selection-end-column="113" />
+            <state relative-caret-position="126">
+              <caret line="44" column="49" lean-forward="true" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,7 +189,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,9 +227,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,7 +367,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="742" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="694" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -394,7 +382,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -420,6 +408,77 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/storage/Ware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/storage/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/storage/DairyProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/kuka.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/polcra.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/input.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/exceptions/BadQualityException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flofacademy/Leltar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="68" column="113" lean-forward="true" selection-start-line="68" selection-start-column="113" selection-end-line="68" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/flofacademy/storage/Ware.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -744,8 +803,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/flofacademy/Leltar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="113" lean-forward="true" selection-start-line="68" selection-start-column="113" selection-end-line="68" selection-end-column="113" />
+        <state relative-caret-position="126">
+          <caret line="44" column="49" lean-forward="true" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

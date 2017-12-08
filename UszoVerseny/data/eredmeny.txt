@@ -1,5 +1,5 @@
 Kartoffel_Geza, teljesitmeny: 10, nemzetiseg: német Úszómester bogyóka.
 Kolompar_Geza, teljesitmeny: 12, nemzetiseg: magyar Úszómester bogyóka.
 Potato_Geza, teljesitmeny: 18, nemzetiseg: angol Úszómester bogyóka.
-A gyorsúszás nyertese: Klein_Bonifac, teljesitmeny: 25, nemzetiseg: német Gyorsúszó bogyóka.
-A hátúszás nyertese: Back_Hugo, teljesitmeny: 11, nemzetiseg: angol Hátúszó bogyóka.
+A gyorsúszás nyertese: Little_Bonifac, teljesitmeny: 15, nemzetiseg: angol Gyorsúszó bogyóka.
+A hátúszás nyertese: Hat_Hugo, teljesitmeny: 15, nemzetiseg: magyar Hátúszó bogyóka.
