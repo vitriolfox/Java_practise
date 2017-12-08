@@ -56,5 +56,19 @@ public class AlfaUtil {
             e.printStackTrace();
         }
     }
+    
+    public static List<Object> deSerializeList(String deSerializePath) {
+        List<Object> list = null;
+        try {
+            FileInputStream fileIn = new FileInputStream(deSerializePath);
+            ObjectInputStream objIn = new ObjectInputStream(fileIn);
+            list.add(objIn.readObject());
+            objIn.close();
+            fileIn.close();
+        } catch (IOException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        return list;
+    }
 
 }
