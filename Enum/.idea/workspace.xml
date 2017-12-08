@@ -2,38 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71fd28bb-d476-44b6-8858-71d1fedfdd6c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/flowacademy/Example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/flowacademy/Level.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/flowacademy/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/.idea/libraries/Munkagepek.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/data/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Emberek/Ember.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Emberek/Halasz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Emberek/Vadasz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Emberek/ZsakmanyoloEmber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Exceptions/TeleVanException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Kamra/HalHusEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Kamra/Kamra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kamra/src/com/flowacademy/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/util/Util.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kozlekedes/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/TruckStat.java" afterPath="$PROJECT_DIR$/../Munkagepek/src/com/flowacademy/machine/TruckStat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../piac/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../piac/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Level.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Level.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/flowacademy/Level.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -67,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/flowacademy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -106,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="45" />
     <option name="width" value="784" />
     <option name="height" value="690" />
@@ -288,7 +264,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="694" extended-state="7" />
+    <frame x="0" y="25" width="1366" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -303,7 +279,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23426062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -355,16 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/flowacademy/Example.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -380,6 +346,16 @@
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

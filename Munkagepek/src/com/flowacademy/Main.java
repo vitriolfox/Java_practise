@@ -33,7 +33,6 @@ public class Main {
         try {
             ObjectInputStream in = new ObjectInputStream(new FileInputStream(OUTPUT));
             machineMap = (HashMap<Loader, Truck>) in.readObject();
-
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }

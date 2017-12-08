@@ -2,39 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9008706d-9575-410e-a0fe-24f0964a3a0e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Haziallat/data/boldogok.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/Driving.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/exceptions/IsBrokenException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/exceptions/NoFuelException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Bicycle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Motorized.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Kozlekedes/src/com/flowacademy/wehicle/Wehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/src/com/flowacademy/Media/Mp3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/src/com/flowacademy/Media/VideoClip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/src/com/flowacademy/Player/Winamp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/boldogok.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/boldogok.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/boldogok.txt" afterPath="$PROJECT_DIR$/../Kozlekedes/data/wehicles.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/input.txt" afterPath="$PROJECT_DIR$/../Haziallat/data/input.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/Main.class" afterPath="$PROJECT_DIR$/../Haziallat/out/production/Haziallat/com/flowacademy/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/src/utils/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/src/LinkedList/LinkedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Haziallat/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Haziallat/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/Main.java" afterPath="$PROJECT_DIR$/../Haziallat/src/com/flowacademy/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RaktarRendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StrategyPattern/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +60,8 @@
       <file leaf-file-name="Konyvespolc.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/konyvespolc/Konyvespolc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+            <state relative-caret-position="347">
+              <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#238#245#0" expanded="true" />
@@ -124,7 +105,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -137,34 +118,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="konyv_rendszer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="konyv_rendszer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="konyv_rendszer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="konyv_rendszer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="konyv_rendszer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="konyv_rendszer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="konyv" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
@@ -373,6 +327,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/konyvespolc/Konyvespolc.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/konyv/Konyv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/konyv/Tankonyv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/flowacademy/konyv/Regeny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/konyvespolc/Konyvespolc.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="55" column="51" lean-forward="true" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
           <folding>
@@ -513,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/konyvespolc/Konyvespolc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        <state relative-caret-position="347">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#238#245#0" expanded="true" />

@@ -5,7 +5,7 @@ import com.flowacademy.Transporter;
 import java.io.Serializable;
 import java.util.Random;
 
-public class Truck extends Machinery implements Transporter, Serializable {
+public class Truck extends Machinery implements Transporter, Serializable, Comparable {
 
     protected int capacity;
     protected int loadedWeight;
@@ -71,5 +71,17 @@ public class Truck extends Machinery implements Transporter, Serializable {
                 "capacity: " + capacity +
                 ", loadedWeight: " + loadedWeight +
                 " " + super.toString();
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        Truck truck1 = (Truck) o;
+        if (((Truck) o).capacity > this.capacity){
+            return 1;
+        } else if (((Truck) o).capacity < this.capacity) {
+            return -1;
+        } else  {
+            return 0;
+        }
     }
 }

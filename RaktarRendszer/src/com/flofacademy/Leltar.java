@@ -22,7 +22,6 @@ public class Leltar {
                     shelfWriter.write(listElement.toString() + "\n");
 
             } catch (BadQualityException e) {
-                //e.printStackTrace();
                 trashWriter.write(listElement.toString() + "\n");
             }
         }
