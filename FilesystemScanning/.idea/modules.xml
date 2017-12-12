@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FilesystemScanning.iml" filepath="$PROJECT_DIR$/FilesystemScanning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilesystemScanning_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FilesystemScanning_main.iml" group="FilesystemScanning" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilesystemScanning_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FilesystemScanning_test.iml" group="FilesystemScanning" />
+    </modules>
+  </component>
+</project>

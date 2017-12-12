@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/autos_rendszer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intelliJ" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jegy_rendszer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kocsma_szimulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week_3" vcs="Git" />
+  </component>
+</project>

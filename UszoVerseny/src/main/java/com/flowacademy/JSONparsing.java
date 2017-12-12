@@ -21,7 +21,6 @@ public class JSONparsing{
 
             BufferedReader br = new BufferedReader(new FileReader("./data/gyorsuszokJSON.json"));
             String line = null;
-            String[] splittedline;
             List<Gyorsuszo> uszoParsedList = new ArrayList<>();
 
             while ((line = br.readLine()) != null){

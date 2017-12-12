@@ -2,34 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11a6848f-4b56-4be2-927a-1e358734fd57" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AlfaUtils/src/utils/Util.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/src/LinkedList/LinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../DataStructures/src/LinkedList/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../filmek/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Ember.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Halasz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Vadasz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Emberek/Zsakmanyolo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Exceptions/TeleVanException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Kamra/HalHusEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Kamra/Kamra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Kamra/out/production/Kamra/com/flowacademy/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Munkagepek/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/Uszoverseny.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Gyorsuszo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Hatuszo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Uszo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/UszoMester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Versenyzo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/comparators/GyorsuszoComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/comparators/HatuszoComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/comparators/UszoMesterComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/exceptions/UszikException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/exceptions/VersenyezException.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/../Munkagepek/.gradle/4.4/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Enum/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Kamra/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Konyvtar_Rendszer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MediaMp3Mp4/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RaktarRendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RaktarRendszer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../filmek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../filmek/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konyv_rendszer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../konyv_rendszer/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +32,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Factory.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Factory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Factory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -84,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Button.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Button.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Button.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -207,8 +198,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,8 +218,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -372,7 +363,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24924242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -396,6 +387,94 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WindowsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Checkbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WindowsButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinuxButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WindowsCheckbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinuxCheckbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinuxFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -601,45 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinuxButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WindowsButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WindowsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -656,6 +700,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WindowsButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinuxButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WindowsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding />
         </state>
       </provider>

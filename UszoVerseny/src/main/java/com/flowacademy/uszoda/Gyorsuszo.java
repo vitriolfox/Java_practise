@@ -3,14 +3,21 @@ package com.flowacademy.uszoda;
 import com.flowacademy.uszoda.exceptions.UszikException;
 
 import java.util.Comparator;
+import java.util.Random;
 
 public class Gyorsuszo extends Uszo implements Versenyzo, Comparable{
+
+    private double random = Math.random();
 
     public Gyorsuszo(String nev, int teljesitmeny, String nemzetiseg) {
         super(nev, teljesitmeny, nemzetiseg);
     }
 
     public Gyorsuszo() {
+    }
+
+    public double getRandom() {
+        return random;
     }
 
     @Override
@@ -25,7 +32,7 @@ public class Gyorsuszo extends Uszo implements Versenyzo, Comparable{
 
     @Override
     public double uszik() throws UszikException {
-        double uszoEredmeny = (this.teljesitmeny *1.3)*Math.random();
+        double uszoEredmeny = (this.teljesitmeny *1.3)*random;
         if (uszoEredmeny>0){
             return uszoEredmeny;
         } else {
