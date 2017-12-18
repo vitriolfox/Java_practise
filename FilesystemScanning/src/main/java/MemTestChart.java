@@ -2,60 +2,31 @@ import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
 import org.jfree.chart.axis.LogarithmicAxis;
-import org.jfree.chart.axis.NumberAxis;
-import org.jfree.chart.plot.DatasetRenderingOrder;
 import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.chart.plot.XYPlot;
 import org.jfree.chart.renderer.xy.XYLineAndShapeRenderer;
-import org.jfree.data.general.DatasetGroup;
-import org.jfree.data.general.Series;
-import org.jfree.data.xy.*;
+import org.jfree.data.xy.XYSeries;
+import org.jfree.data.xy.XYSeriesCollection;
 
 import javax.swing.*;
 import java.util.*;
 
-public class Chart {
+public class MemTestChart {
 
-    public static long fibonacci2(long n)  {
-        if(n == 0) {
-            return 0;
-        } else if(n == 1) {
-            return 1;
-        } else {
-            return fibonacci2(n - 1) + fibonacci2(n - 2);
-        }
+    static long memoryBefore;
+    static long memoryAfter;
+    static Runtime runtime = Runtime.getRuntime();
+    static void memTic() {
+        System.gc();
+        memoryBefore = runtime.totalMemory() - runtime.freeMemory();
     }
 
-
-    public static int fibonacci3(int n){
-        int n1 = 0;
-        int n2 = 1;
-        int n3 = 0;
-        for (int i=2; i <= n; i++){
-            n3 = n1 + n2;
-            n1 = n2;
-            n2 = n3;
-        }
-        return n3;
+    static long memToc() {
+        // System.gc();
+        memoryAfter = runtime.totalMemory() - runtime.freeMemory();
+        return memoryAfter - memoryBefore;
     }
 
-    public static double[][] fillDiagram(int n) {
-
-        double[][] diagramMatrix = new double[5][n + 1];
-
-        for (int i = 0; i <= n; i++) {
-            long averageLong = 0;
-            for (int j = 0; j <= 10; j++){
-                long startTime = System.currentTimeMillis();
-                fibonacci2(i);
-                long stopTime = System.currentTimeMillis();
-                averageLong += stopTime-startTime;
-            }
-            diagramMatrix[0][i] = fibonacci2(i);
-            diagramMatrix[1][i] = averageLong/10;
-        }
-        return diagramMatrix;
-    }
 
     public static void showChart(JFreeChart chart) {
         SwingUtilities.invokeLater(new Runnable() {
@@ -112,7 +83,7 @@ public class Chart {
                 PlotOrientation.VERTICAL, true, true, false);
         LogarithmicAxis xAxis = new LogarithmicAxis("Fill values");
 
-        JFreeChart chartContainsTest = ChartFactory.createXYLineChart("ContainsTest Runtimes", "Fill values", "Contains Runtime", ds,
+        JFreeChart chartFillMemoryTest = ChartFactory.createXYLineChart("Memory Used", "Fill values", "Memory used", ds,
                 PlotOrientation.VERTICAL, true, true, false);
 
         XYPlot plot = chart.getXYPlot();
@@ -120,9 +91,10 @@ public class Chart {
 
         XYLineAndShapeRenderer renderer = (XYLineAndShapeRenderer)plot.getRenderer();
         renderer.setSeriesShapesVisible(0, true);
+        renderer.setSeriesShapesVisible(1,true);
 
         // Diagram megjelenitese
-        showChart(chartContainsTest);
+        showChart(chartFillMemoryTest);
     }
 
 
@@ -134,60 +106,33 @@ public class Chart {
         HashSet<Integer> sampleHashSet = new HashSet<>();
         TreeSet<Integer> sampleTreeSet = new TreeSet<>();
 
-        /*fillCollection(n, 1, sampleArrayList, diagramMatrix);
-        fillCollection(n, 2, sampleLinkedList, diagramMatrix);
-        fillCollection(n, 3, sampleHashSet, diagramMatrix);
-        fillCollection(n, 4, sampleTreeSet, diagramMatrix);
-*/
-
-        fillCollectionForContainsTest(n, 1, sampleArrayList, diagramMatrix);
-        fillCollectionForContainsTest(n, 2, sampleLinkedList, diagramMatrix);
-        fillCollectionForContainsTest(n, 3, sampleHashSet, diagramMatrix);
-        fillCollectionForContainsTest(n, 4, sampleTreeSet, diagramMatrix);
+        fillCollectionForMemTest(n, 1, sampleArrayList, diagramMatrix);
+        fillCollectionForMemTest(n, 2, sampleLinkedList, diagramMatrix);
+        fillCollectionForMemTest(n, 3, sampleHashSet, diagramMatrix);
+        fillCollectionForMemTest(n, 4, sampleTreeSet, diagramMatrix);
 
         return diagramMatrix;
     }
 
-    public static double[][] fillCollection(int n, int listNumber, Collection<Integer> targetCollection, double[][] targetMatrix) {
+    public static void fillCollectionForMemTest(int n, int listNumber, Collection<Integer> targetCollection, double[][] targetMatrix) {
 
         int k = 10;
         for (int i = 0; i <= n; i++) {
-            long startTime = System.currentTimeMillis();
+            //long startTime = System.currentTimeMillis();
+            memTic();
             for (int j = 0; j <= k; j++){
                 targetCollection.add(j);
             }
-            long stopTime = System.currentTimeMillis();
-
+            //long stopTime = System.currentTimeMillis();
             targetMatrix[0][i] = targetCollection.size();
-            targetMatrix[listNumber][i] = stopTime-startTime;
-            k = k*10;
-        }
-        return targetMatrix;
-    }
-
-    public static void fillCollectionForContainsTest(int n, int listNumber, Collection<Integer> targetCollection, double[][] targetMatrix) {
-
-        int k = 10;
-        for (int i = 0; i <= n; i++) {
-
-            for (int j = 0; j <= k; j++){
-                targetCollection.add(j);
-            }
-            long startTime = System.currentTimeMillis();
-            targetCollection.contains(Integer.MAX_VALUE);
-            long stopTime = System.currentTimeMillis();
-
-            targetMatrix[0][i] = targetCollection.size();
-            targetMatrix[listNumber][i] = stopTime-startTime;
+            targetMatrix[listNumber][i] = memToc();
             k = k*10;
         }
     }
 
     public static void main(String[] args) {
 
-        //drawDiagram(fillDiagram(45));
         drawDiagram(matrixGenerator(4));
-
 
 
     }

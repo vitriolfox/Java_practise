@@ -2,84 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa087da8-8048-48ff-9e93-f6b3e96c4ee7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/.idea/libraries/Gradle__org_jfree_jfreechart_1_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/A/a/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/A/a/2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/A/b/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/A/c/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/A/c/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/B/3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/B/a/4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/B/b/5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/B/c/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/B/c/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/C/9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/C/a/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/C/a/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/C/b/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/data/C/c/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/src/main/java/Chart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/src/main/java/FakFibLnko.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/src/main/java/FileScanningMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__javax_mail_javax_mail_api_1_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__org_jsoup_jsoup_1_11_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/src/main/java/HTMLParsingMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HTMLParsing/src/main/java/IMAGEjsoup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_mail_javax_mail_api_1_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_11_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/SPAMFilterMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UszoVerseny/src/test/java/com/flowacademy/uszoda/GyorsuszoTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Munkagepek/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/Uszoverseny.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Gyorsuszo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Hatuszo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Uszo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/UszoMester.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/Versenyzo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/comparators/GyorsuszoComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/comparators/HatuszoComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/comparators/UszoMesterComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/exceptions/UszikException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/UszoVerseny/com/flowacademy/uszoda/exceptions/VersenyezException.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/../Munkagepek/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/classes/com/flowacademy/JSONparsing.class" afterPath="$PROJECT_DIR$/../UszoVerseny/out/production/classes/com/flowacademy/JSONparsing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/out/production/classes/com/flowacademy/uszoda/Gyorsuszo.class" afterPath="$PROJECT_DIR$/../UszoVerseny/out/production/classes/com/flowacademy/uszoda/Gyorsuszo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../8Queens/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../8Queens/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../8Queens/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../8Queens/src/com/flowacademy/QueensMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/src/main/java/DatafillMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FilesystemScanning/src/main/java/MemTestChart.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FilesystemScanning/out/production/FilesystemScanning/FakFibLnko.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FilesystemScanning/out/production/FilesystemScanning/FileScanningMain.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FilesystemScanning/out/production/classes/Chart$1.class" afterPath="$PROJECT_DIR$/../FilesystemScanning/out/production/classes/Chart$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FilesystemScanning/out/production/classes/Chart.class" afterPath="$PROJECT_DIR$/../FilesystemScanning/out/production/classes/Chart.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../autos_rendszer" afterPath="$PROJECT_DIR$/../autos_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../intelliJ" afterPath="$PROJECT_DIR$/../intelliJ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jegy_rendszer" afterPath="$PROJECT_DIR$/../jegy_rendszer" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week_3" afterPath="$PROJECT_DIR$/../week_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Factory_pattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Factory_pattern/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Munkagepek/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FilesystemScanning/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FilesystemScanning/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FilesystemScanning/src/main/java/Chart.java" afterPath="$PROJECT_DIR$/../FilesystemScanning/src/main/java/Chart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../UszoVerseny/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/JSONparsing.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/JSONparsing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/Gyorsuszo.java" afterPath="$PROJECT_DIR$/../UszoVerseny/src/main/java/com/flowacademy/uszoda/Gyorsuszo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../szoveg_kezel/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../szoveg_kezel/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -467,7 +407,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="26" />
     <option name="width" value="1356" />
     <option name="height" value="739" />
@@ -664,7 +604,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1280" height="694" extended-state="7" />
+    <frame x="0" y="26" width="1366" height="742" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -678,7 +619,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27147487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
